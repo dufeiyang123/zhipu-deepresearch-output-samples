@@ -1,0 +1,8 @@
+.DS_Store
+
+# reports/task_xx/ 下忽略所有内容，再放行需要的文件
+reports/*/*
+!reports/*/assets/
+!reports/*/assets/**
+!reports/*/final_report.md
+!reports/*/plan.md
