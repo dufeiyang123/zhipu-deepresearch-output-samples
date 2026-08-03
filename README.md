@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Zhipu DeepResearch — Output Samples & Evaluation</h1>
-  <p><em>Personal project by a Zhipu engineer. Not an official Zhipu AI repository.</em></p>
+  <p><em>Personal project by a Zhipu engineer and a HelloBike engineer. Not an official Zhipu AI repository.</em></p>
 </div>
 
 > **Try Zhipu DeepResearch:** [https://research-hb.zhipuai-infra.cn/](https://research-hb.zhipuai-infra.cn/) — Currently in closed beta with limited-time free access.
